@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,100:0ea5e9&height=160&section=header&text=Md%20Sameer%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Android%20%E2%80%A2%20ECE%20Undergrad&descAlignY=70&descSize=16&descColor=94d8f7&fontStyle=bold" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,100:0ea5e9&height=160&section=header&text=Md%20Sameer%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Android%20%E2%80%A2%20ECE%20Undergrad&descAlignY=70&descSize=16&descColor=94d8f7" width="100%"/>
 
 </div>
 
@@ -87,70 +87,44 @@
 
 <div align="center">
 
-<table border="0" cellpadding="16">
-<tr>
-<td align="center" width="50%">
-
 ### 🟡 LeetCode — [Md\_Sameer\_Ahmad](https://leetcode.com/u/Md_Sameer_Ahmad/)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Md_Sameer_Ahmad?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/Md_Sameer_Ahmad/)
 
-![Easy](https://img.shields.io/badge/Easy-76%2B-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-107%2B-ffa116?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-28%2B-ef4743?style=flat-square)
-![Rank](https://img.shields.io/badge/Rank-%23724551-gray?style=flat-square&logo=leetcode)
+![Total](https://img.shields.io/badge/Total%20Solved-211%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Easy](https://img.shields.io/badge/Easy-76%2B-00b8a3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-107%2B-ffa116?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-28%2B-ef4743?style=for-the-badge)
 
-</td>
-<td align="center" width="50%">
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 🟢 GeeksForGeeks — [mdsameeraq4ad](https://www.geeksforgeeks.org/profile/mdsameeraq4ad)
 
-<br/>
+> ⚠️ *GFG does not provide a public API for live stats embedding — visit profile for live rank, streak & POTD count*
 
-[![GFG](https://img.shields.io/badge/Profile-mdsameeraq4ad-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mdsameeraq4ad?tab=activity)
-
-<br/>
-
-![Problems](https://img.shields.io/badge/Problems%20Solved-150%2B-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)
-![Easy](https://img.shields.io/badge/Easy-✓-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-✓-ffa116?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-✓-ef4743?style=flat-square)
+[![→ View Live GFG Profile & Stats](https://img.shields.io/badge/→%20View%20Live%20GFG%20Stats%20%26%20Rank-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mdsameeraq4ad?tab=activity)
 
 <br/>
 
-> 🔥 **Active streak** on GFG
->
-> 📊 Strong in **Arrays · Trees · DP · Graphs**
->
-> 🎯 Combined **350+ problems** — LeetCode + GFG
->
-> 💡 Focus: **Time/Space optimization** & clean logic
-
-<br/>
-
-[![→ View Full GFG Profile](https://img.shields.io/badge/→%20View%20GFG%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mdsameeraq4ad?tab=activity)
-
-</td>
-</tr>
-</table>
+![GFG Solved](https://img.shields.io/badge/Problems%20Solved-150%2B-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![DSA Total](https://img.shields.io/badge/Combined%20LeetCode%20%2B%20GFG-350%2B-0ea5e9?style=for-the-badge)
+![Topics](https://img.shields.io/badge/Topics-Arrays%20%7C%20Trees%20%7C%20DP%20%7C%20Graphs-64748b?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Recognitions
+## 🏆 Achievements
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-211%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![GFG](https://img.shields.io/badge/GFG-150%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Total DSA](https://img.shields.io/badge/Total%20DSA-350%2B%20Problems-0ea5e9?style=for-the-badge)
-
-<br/>
-
 ![JPMorgan](https://img.shields.io/badge/JPMorgan%20Chase-Forage%20Certified-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)
 ![AICTE](https://img.shields.io/badge/AICTE%20EduSkills-AI--ML%20Intern-FF6B35?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS%20Academy-Cloud%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Academy-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br/>
 
@@ -197,7 +171,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**DevOps & Tools**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -217,9 +191,9 @@
 
 ### 🤖 [AI Decision Intelligence](https://github.com/mdsameerahmad/AI-Decision-Intelligence) &nbsp; `🟢 LIVE`
 
-Cross-platform **AI-powered decision support system** — deployed as Web App + Android APK. Real AI integration with Firebase backend.
+Cross-platform **AI-powered decision support system** — Web App + Android APK. Real AI integration, Firebase backend.
 
-**Links:** [🌐 Web App](https://ai-decision-app-frontend.web.app/) &nbsp;|&nbsp; [🔗 Mirror](https://aidecisionapp.qzz.io) &nbsp;|&nbsp; [📱 APK](https://drive.google.com/file/d/1oQRXq7TnIClPpCnYzE7lXfpr3wj9NGr-/view?usp=sharing)
+[🌐 Web](https://ai-decision-app-frontend.web.app/) · [🔗 Mirror](https://aidecisionapp.qzz.io) · [📱 APK](https://drive.google.com/file/d/1oQRXq7TnIClPpCnYzE7lXfpr3wj9NGr-/view?usp=sharing)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -231,9 +205,9 @@ Cross-platform **AI-powered decision support system** — deployed as Web App + 
 
 ### 🎬 [Gramflix](https://gramflix.in) &nbsp; `🟢 LIVE`
 
-Production-grade **streaming & referral platform** with real users. Full backend with auth, live on custom domain.
+Production **streaming & referral platform** — real users, full backend, live on custom domain.
 
-**Links:** [🌐 gramflix.in](https://gramflix.in) &nbsp;|&nbsp; [📁 GitHub](https://github.com/mdsadiqueshakeel/gramflix/tree/master)
+[🌐 gramflix.in](https://gramflix.in) · [📁 GitHub](https://github.com/mdsadiqueshakeel/gramflix/tree/master)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -247,9 +221,9 @@ Production-grade **streaming & referral platform** with real users. Full backend
 
 ### 🕌 [Madarsa Arabia](https://madarsaarabia.in) &nbsp; `🟢 LIVE`
 
-Full-stack **institutional web platform** — live on production with custom domain, real traffic & users.
+Full-stack **institutional platform** — live with custom domain, real traffic.
 
-**Links:** [🌐 madarsaarabia.in](https://madarsaarabia.in) &nbsp;|&nbsp; [📁 GitHub](https://github.com/mdsameerahmad/MADARSA-ARABIA)
+[🌐 madarsaarabia.in](https://madarsaarabia.in) · [📁 GitHub](https://github.com/mdsameerahmad/MADARSA-ARABIA)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -260,11 +234,11 @@ Full-stack **institutional web platform** — live on production with custom dom
 
 ### 💳 [UPI Offline Mesh](https://github.com/mdsameerahmad/offline-payment-mesh-idempotent-settlement) &nbsp; `🔬 R&D`
 
-**Offline-first fintech system** — idempotent settlement engine enabling UPI-style payments without internet via mesh networking. Novel engineering approach.
+**Offline-first fintech** — idempotent settlement engine for UPI-style payments via mesh networking without internet.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![FinTech](https://img.shields.io/badge/FinTech-Payments-0ea5e9?style=flat-square)
-![Mesh](https://img.shields.io/badge/P2P-Mesh%20Network-2F8D46?style=flat-square)
+![P2P](https://img.shields.io/badge/P2P-Mesh%20Network-2F8D46?style=flat-square)
 
 </td>
 </tr>
